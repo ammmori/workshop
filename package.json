@@ -1,0 +1,13 @@
+{
+  "name": "workshop-app",
+  "version": "1.0.0",
+  "description": "Workshop App - Weather Widget & OpenCode Session Dashboard (AI-195)",
+  "main": "src/artifact.jsx",
+  "type": "module",
+  "scripts": {
+    "test": "node --test tests/*.test.js"
+  },
+  "keywords": [],
+  "author": "Alexandre Mori",
+  "license": "MIT"
+}
